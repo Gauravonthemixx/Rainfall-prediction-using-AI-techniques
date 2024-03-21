@@ -1,6 +1,8 @@
 # 🚀 Rainfall-prediction-using-AI-techniques 🌧️🌧️
 ![maxresdefault_0ihPWqs max-1300x1300](https://github.com/Gauravonthemixx/Text-Analytics-of-TED-Talks/assets/91785440/9be2926b-7023-4644-a230-9b828b786f04)
 
+<img width="591" alt="Screenshot 2024-03-21 at 01 54 31" src="https://github.com/Gauravonthemixx/Text-Analytics-of-TED-Talks/assets/91785440/c8f39dba-6b31-4be5-87a8-31b777e3ea88">
+
 
 ## :pencil: Description:
 * This project focuses on leveraging artificial intelligence (AI) techniques to analyze historical weather data and predict rainfall occurrences in Australia. 
@@ -43,6 +45,10 @@ from sklearn.preprocessing import LabelEncoder
 
 ## 🎯 Results:
 
+
+![download](https://github.com/Gauravonthemixx/Text-Analytics-of-TED-Talks/assets/91785440/69bc8a97-775e-4d07-80e3-58c0f5b5f5c1)
+
+![download (1)](https://github.com/Gauravonthemixx/Text-Analytics-of-TED-Talks/assets/91785440/72fa47cf-3f62-4c9c-8f12-f57ac4c7d529)
 
 ### Baseline Model:
 * Initial F1-score of 79%, with significant class imbalance favoring the majority class (no rain).
