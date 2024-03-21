@@ -9,4 +9,20 @@
 * The dataset used in this analysis consists of historical weather data collected from various locations in Australia spanning from 2009 to 2017. 
 * It contains 22 independent features, including measurements recorded at two different times of the day (9 am and 3 pm), such as temperature, rainfall, wind speed, humidity, and atmospheric pressure. Additionally, the dataset includes a binary target variable indicating whether it will rain tomorrow. 
 * With 145,460 data points, this dataset serves as a valuable resource for studying weather patterns and predicting rainfall occurrences.
+* Dataset is available at https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package/code 🔗.
 
+## 💻 Requirements:
+
+
+* Python programming environment
+* Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
+* Jupyter Notebook or Google Colab for code execution
+  
+```
+# Importing essential libraries
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import LabelEncoder
+```
