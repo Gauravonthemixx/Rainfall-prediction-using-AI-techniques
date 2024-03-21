@@ -58,3 +58,5 @@ from sklearn.preprocessing import LabelEncoder
 * Comparable performance to Random Forests with better computational efficiency, achieving an F1-score of 93%.
 ### Implications:
 * AI techniques demonstrate significant potential in weather forecasting, providing accurate predictions for rain occurrences and supporting informed decision-making in various sectors.
+
+## Please Go Through [Rainfall-prediction HDL.pdf](https://github.com/Gauravonthemixx/Text-Analytics-of-TED-Talks/files/14680741/Rainfall-prediction.HDL.pdf) for more info. 🔗
