@@ -1,4 +1,6 @@
 # 🚀 Rainfall-prediction-using-AI-techniques 🌧️🌧️
+![maxresdefault_0ihPWqs max-1300x1300](https://github.com/Gauravonthemixx/Text-Analytics-of-TED-Talks/assets/91785440/9be2926b-7023-4644-a230-9b828b786f04)
+
 
 ## :pencil: Description:
 * This project focuses on leveraging artificial intelligence (AI) techniques to analyze historical weather data and predict rainfall occurrences in Australia. 
@@ -26,3 +28,27 @@ import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 ```
+## :pencil: Methods:
+
+
+### Data Preprocessing: 
+* Label encoding for categorical variables, handling missing values, and feature selection using mutual information.
+### Addressing Class Imbalance:
+* Resampling techniques, specifically oversampling the minority class (rain) to achieve a balanced dataset.
+  
+### Model Implementation:
+* Baseline Model: Decision Tree classifier
+* Enhanced Models: Bagging classifier and Random Forest classifier
+* Model Evaluation: Performance evaluation using classification metrics such as F1-score, precision, and recall.
+
+## 🎯 Results:
+
+
+### Baseline Model:
+* Initial F1-score of 79%, with significant class imbalance favoring the majority class (no rain).
+### Enhanced Model: 
+* Substantial improvements in F1-score to 93% after feature selection and resampling techniques.
+### Decision Tree Classifier: 
+* Comparable performance to Random Forests with better computational efficiency, achieving an F1-score of 93%.
+### Implications:
+* AI techniques demonstrate significant potential in weather forecasting, providing accurate predictions for rain occurrences and supporting informed decision-making in various sectors.
